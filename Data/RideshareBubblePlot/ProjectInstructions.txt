@@ -1,0 +1,14 @@
+These are the project instructions
+
+1) Mount Google Drive (Install Google Co-Lab onto computer if not already installed)
+2a) Open a new Notebook, with the latest version of Python, in Jupyter Notebook from Google-CoLab and mount the file to your Google drive directory
+or
+2b) Create a rideshare.ipynb file in VSCode that is located in the Drive file path
+3) Install and activate a virtual environment
+4) Install additional dependencies needed for the project (you can install from requirements.txt)
+5) Through Windows Terminal, enable git add . long file paths (longer than 260 characters).
+    "git config --global core.longpaths true"
+6)
+
+    
+
