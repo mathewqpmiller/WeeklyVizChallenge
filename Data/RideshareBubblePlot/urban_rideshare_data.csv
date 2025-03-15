@@ -1,0 +1,34 @@
+City,Average Fare ($),Total Number of Rides,Total Number of Drivers,City Type
+Chicago,24.8,331621,1081,Urban
+Houston,16.1,238172,2600,Urban
+San Diego,29.72,365065,4588,Urban
+Seattle,36.29,318489,4678,Urban
+Louisville,20.24,96850,3441,Urban
+Milwaukee,13.08,297323,8026,Urban
+Tucson,31.63,435149,6044,Urban
+Sacramento,27.07,97192,9295,Urban
+Colorado Springs,34.24,359981,5528,Urban
+Minneapolis,10.76,355847,4088,Urban
+Tulsa,24.06,496258,3247,Urban
+Wichita,23.94,236746,1339,Urban
+Arlington,12.49,473247,2703,Urban
+Henderson,25.04,440488,4987,Urban
+Plano,35.13,139563,9942,Urban
+Lincoln,28.56,219954,6746,Urban
+Chandler,12.15,127286,4438,Urban
+Lubbock,18.83,131943,6009,Urban
+Chesapeake,37.91,302596,2661,Urban
+Glendale,11.46,304656,3877,Urban
+Montgomery,15.84,95345,9540,Urban
+San Bernardino,15.74,254855,8121,Urban
+Arlington,23.06,214275,3146,Urban
+Scottsdale,18.08,230518,8514,Urban
+Fayetteville,10.41,322818,1484,Urban
+McKinney,12.13,350294,1071,Urban
+Hickory,19.93,419593,7241,Urban
+Sioux Falls,22.57,280944,6047,Urban
+Bismarck,34.75,226385,4588,Urban
+Jackson,37.81,70036,1226,Urban
+Salem,22.92,349025,9370,Urban
+Charleston,36.17,453212,8974,Urban
+Macon,17.53,84441,5885,Urban

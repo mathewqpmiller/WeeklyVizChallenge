@@ -1,0 +1,35 @@
+City,Average Fare ($),Total Number of Rides,Total Number of Drivers,City Type
+Phoenix,17.98,89193,2179,Suburban
+Philadelphia,22.12,12393,4230,Suburban
+Dallas,18.52,68657,3702,Suburban
+San Jose,13.35,11129,3390,Suburban
+Fort Worth,19.1,118673,1248,Suburban
+Columbus,19.32,135751,1825,Suburban
+San Francisco,15.89,111825,3343,Suburban
+Boston,16.39,52993,3067,Suburban
+Memphis,19.67,141099,3664,Suburban
+Fresno,22.9,28331,3789,Suburban
+Long Beach,17.94,97440,3407,Suburban
+Virginia Beach,15.99,50847,4901,Suburban
+Omaha,18.93,145914,2609,Suburban
+Miami,16.12,11091,1811,Suburban
+New Orleans,9.9,136890,510,Suburban
+Riverside,14.28,38793,1200,Suburban
+Pittsburgh,15.03,52790,2550,Suburban
+Greensboro,11.74,114367,2383,Suburban
+Anchorage,11.71,40260,3186,Suburban
+Laredo,23.54,58629,309,Suburban
+Boise,12.72,35922,2488,Suburban
+Spokane,21.72,93075,3940,Suburban
+Irving,21.75,37813,3598,Suburban
+Toledo,12.83,98883,1723,Suburban
+Des Moines,20.59,89600,1317,Suburban
+Visalia,23.05,83146,1610,Suburban
+Shreveport,22.88,77122,4865,Suburban
+Mobile,14.43,100600,3306,Suburban
+Chattanooga,24.23,148769,4218,Suburban
+Grand Rapids,16.44,145551,3930,Suburban
+Provo,12.26,68963,3526,Suburban
+Little Rock,18.67,42503,2269,Suburban
+Overland Park,18.59,94265,2103,Suburban
+Pueblo,17.75,93378,4353,Suburban
