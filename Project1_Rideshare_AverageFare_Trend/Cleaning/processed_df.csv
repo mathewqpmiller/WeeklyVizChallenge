@@ -1,0 +1,53 @@
+City,Average Fare ($),Total Number of Rides,Total Number of Drivers,City Type
+New York,20.65,131342,684,Rural
+Los Angeles,23.82,14625,3936,Rural
+San Antonio,8.19,10678,2074,Rural
+Austin,18.77,84606,630,Rural
+Jacksonville,23.27,84921,1132,Rural
+Charlotte,23.21,129540,1272,Rural
+Indianapolis,18.11,72053,2300,Rural
+Denver,17.59,26140,3514,Rural
+Washington,22.14,147809,549,Rural
+El Paso,13.01,130587,898,Rural
+Detroit,12.8,73992,3228,Rural
+Nashville,15.42,128909,3308,Rural
+Portland,16.4,121387,3670,Rural
+Oklahoma City,16.84,56499,1049,Rural
+Las Vegas,15.51,111427,3084,Rural
+Baltimore,18.31,90130,1090,Rural
+Albuquerque,24.47,102550,2591,Rural
+Kansas City,23.86,89743,4760,Rural
+Mesa,10.63,78643,1336,Rural
+Atlanta,16.68,149822,394,Rural
+Raleigh,13.86,51715,3123,Rural
+Oakland,17.33,39325,335,Rural
+Bakersfield,23.41,135114,4799,Rural
+Cleveland,11.72,64243,2525,Rural
+Stockton,11.75,54374,3777,Rural
+Corpus Christi,23.05,126120,1064,Rural
+Buffalo,17.68,49473,2022,Rural
+Fort Wayne,11.08,126534,2145,Rural
+Jersey City,10.24,46365,1548,Rural
+St. Petersburg,19.71,13300,4301,Rural
+Madison,14.64,138187,2025,Rural
+Durham,22.45,41185,2100,Rural
+Norfolk,10.66,23453,3149,Rural
+Birmingham,15.11,26871,1066,Rural
+Huntsville,23.4,22100,3516,Rural
+Gilbert,16.13,54435,2802,Rural
+Frisco,24.16,82350,2131,Rural
+Joliet,8.51,119937,796,Rural
+Denton,23.98,103981,3401,Rural
+Boulder,14.48,103440,3481,Rural
+Columbia,24.59,93716,870,Rural
+Madison,15.72,37187,955,Rural
+Waterloo,13.57,30147,4369,Rural
+Lansing,19.11,111041,2380,Rural
+Davis,9.07,14554,3430,Rural
+Eugene,16.45,117273,2384,Rural
+Chico,21.26,110170,2688,Rural
+Lafayette,10.94,83839,3599,Rural
+Burlington,11.31,99110,1984,Rural
+Gainesville,17.41,108569,3048,Rural
+Shreveport,13.13,137253,451,Rural
+Billings,19.75,103955,4096,Rural
