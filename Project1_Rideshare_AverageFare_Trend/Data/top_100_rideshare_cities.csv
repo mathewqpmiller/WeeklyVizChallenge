@@ -1,0 +1,101 @@
+City,Driver Count,City Type
+Bozeman,43,Rural
+Burlington,46,Rural
+Flagstaff,6,Rural
+Asheville,47,Rural
+Missoula,6,Rural
+Juneau,25,Rural
+Casper,28,Rural
+Great Falls,33,Rural
+Cheyenne,25,Rural
+Fargo,35,Rural
+Duluth,33,Rural
+Beaufort,30,Rural
+Paducah,48,Rural
+Helena,14,Rural
+Sioux City,28,Rural
+Pocatello,34,Rural
+Bowling Green,6,Rural
+Prescott,26,Rural
+Laramie,22,Rural
+Klamath Falls,45,Rural
+Grand Forks,29,Rural
+Hattiesburg,17,Rural
+Fairbanks,9,Rural
+Cookeville,31,Rural
+Aberdeen,20,Rural
+Morgantown,11,Rural
+Carson City,40,Rural
+Mankato,41,Rural
+Walla Walla,22,Rural
+Harrisonburg,33,Rural
+Cedar City,48,Rural
+Steamboat Springs,26,Rural
+Lewiston,49,Rural
+Naperville,200,Suburban
+Eugene,86,Suburban
+Tacoma,104,Suburban
+Reno,89,Suburban
+Augusta,124,Suburban
+Fort Collins,118,Suburban
+Sioux Falls,57,Suburban
+Madison,139,Suburban
+Salem,51,Suburban
+Springfield,63,Suburban
+Knoxville,107,Suburban
+Chattanooga,106,Suburban
+Tallahassee,91,Suburban
+Shreveport,78,Suburban
+Des Moines,55,Suburban
+Savannah,152,Suburban
+Little Rock,161,Suburban
+Mobile,107,Suburban
+Winston-Salem,172,Suburban
+Columbia,181,Suburban
+Baton Rouge,145,Suburban
+Spokane,152,Suburban
+Toledo,100,Suburban
+Fayetteville,124,Suburban
+Huntsville,86,Suburban
+Montgomery,133,Suburban
+Akron,91,Suburban
+Rochester,94,Suburban
+Providence,54,Suburban
+Boise,184,Suburban
+Santa Fe,84,Suburban
+Lexington,200,Suburban
+Lubbock,183,Suburban
+New York,354,Urban
+Los Angeles,804,Urban
+Chicago,480,Urban
+Houston,999,Urban
+Phoenix,746,Urban
+Philadelphia,685,Urban
+San Antonio,841,Urban
+San Diego,499,Urban
+Dallas,895,Urban
+San Jose,895,Urban
+Austin,291,Urban
+Jacksonville,585,Urban
+Fort Worth,924,Urban
+Columbus,316,Urban
+San Francisco,438,Urban
+Charlotte,949,Urban
+Indianapolis,800,Urban
+Seattle,982,Urban
+Denver,800,Urban
+Washington,408,Urban
+Boston,998,Urban
+El Paso,593,Urban
+Nashville,898,Urban
+Detroit,811,Urban
+Oklahoma City,414,Urban
+Portland,829,Urban
+Las Vegas,367,Urban
+Memphis,750,Urban
+Louisville,507,Urban
+Baltimore,697,Urban
+Milwaukee,404,Urban
+Albuquerque,271,Urban
+Tucson,862,Urban
+Fresno,947,Urban
